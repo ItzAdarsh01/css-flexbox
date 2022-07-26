@@ -49,11 +49,11 @@ aside{
 aside li{
     color:black;
     font-size: 20px;
-    background: beige;
+    list-style: none;
+    background-color: rgb(164, 144, 144);
 }
 aside li:hover{
     color: rgb(27, 0, 235);
-    background-color: rgb(164, 144, 144);
     cursor: pointer;
 }
 aside p{
